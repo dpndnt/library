@@ -4,7 +4,7 @@ dpndnt/library
 Research library of the `##dependent` IRC channel.
 
 * Abel, A. (2012) [“Agda: Equality”](doc/pdf/abel-2012.pdf)
-* Abel, A., Chapman, J. (2014) [“Normalization by evaluation in the delay monad: A case study for coinduction via copatterns and sized types”](doc/pdf/abel-chapman-2014.pdf), 
+* Abel, A., Chapman, J. (2014) [“Normalization by evaluation in the delay monad: A case study for coinduction via copatterns and sized types”](doc/pdf/abel-chapman-2014.pdf)
 * Aczel, P. (1977) [“The type theoretic interpretation of constructive set theory”](doc/pdf/aczel-1977.pdf)
 * Aczel, P. (1982) [“The type theoretic interpretation of constructive set theory: Choice principles”](doc/pdf/aczel-1982.pdf)
 * Alechina, N., Mendler, M., de Paiva, V., Ritter, E. (2001) [“Categorical and Kripke semantics for constructive S4 modal logic”](doc/pdf/alechina-et-al-2001.pdf)
