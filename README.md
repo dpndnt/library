@@ -30,7 +30,7 @@ Research library of the `##dependent` IRC channel.
 * Chapman, J. (2009) [“Type checking and normalisation”](doc/pdf/chapman-2009.pdf)
 * Chlipala, A. (2008) [“Parametric higher-order abstract syntax for mechanized semantics”](doc/pdf/chlipala-2008.pdf)
 * Coquand, C. (2002) [“A formalised proof of the soundness and completeness of a simply typed lambda-calculus with explicit substitutions”](doc/pdf/coquand-2002.pdf)
-* Coquand, T. (2004) [“Abour Brouwer’s fan theorem”](doc/pdf/coquand-2004.pdf)
+* Coquand, T. (2004) [“About Brouwer’s fan theorem”](doc/pdf/coquand-2004.pdf)
 * Coquand, T., Dybjer, P. (1997) [“Intuitionistic model constructions and normalization proofs”](doc/pdf/coquand-dybjer-1997.pdf)
 * Danielsson, N. (2012) [“Operational semantics using the partiality monad”](doc/pdf/danielsson-2012.pdf)
 * Davy, O., Rhiger, M., Rose, K. (2001) [“Normalization by evaluation with typed abstract syntax”](doc/pdf/danvy-2001.pdf)
