@@ -56,7 +56,7 @@ Research library of the `##dependent` IRC channel.
 * Kripke, S. (1963) [“Semantical analysis of modal logic I: Normal modal logic propositional calculi”](doc/pdf/kripke-1963.pdf)
 * Leivant, D. (1991) [“Finely stratified polymorphism”](doc/pdf/leivant-1991.pdf)
 * Lewis, C., Langford, C. (1932) [“The structure of the system of strict implication”](doc/pdf/lewis-langford-1932.pdf)
-* Lindley, S. (2009) [“Normalisation by evaluation in the compilation of typed functional programming languages”](doc/pdf/lindley-2009.pdf)
+* Lindley, S. (2005) [“Normalisation by evaluation in the compilation of typed functional programming languages”](doc/pdf/lindley-2005.pdf)
 * Löh, A., McBride, C., Swierstra, W. (2010) [“A tutorial implementation of a dependently typed lambda calculus”](doc/pdf/loh-mcbride-swierstra-2010.pdf)
 * McBride, C. (2003) [“First-order unification by structural recursion”](doc/pdf/mcbride-2003.pdf)
 * McBride, C. (2009) [“Let’s see how things unfold: Reconciling the infinite with the intensional”](doc/pdf/mcbride-2009.pdf)
