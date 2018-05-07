@@ -73,7 +73,7 @@ H
 * Hagino, T. (1987) [“A categorical programming language”](doc/pdf/hagino-1987.pdf)
 * Harrison, J. (1995) [“Metatheory and reflection in theorem proving: A survey and critique”](doc/pdf/harrison-1995.pdf)
 * Heyting, A. (1956) [“Intuitionism: An introduction”](doc/pdf/heyting-1956.pdf)
-* Hofmann, M. (1977) [“Extensional constructs in intensional type theory”](doc/pdf/hofmann-1977.pdf)
+* Hofmann, M. (1997) [“Extensional constructs in intensional type theory”](doc/pdf/hofmann-1997.pdf)
 
 I
 -
