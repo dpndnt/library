@@ -10,6 +10,7 @@ A
 * Abramsky, S., A. Jung (1994) [“Domain theory”](doc/pdf/abramsky-jung-1994.pdf)
 * Aczel, P. (1977) [“The type theoretic interpretation of constructive set theory”](doc/pdf/aczel-1977.pdf)
 * Aczel, P. (1982) [“The type theoretic interpretation of constructive set theory: Choice principles”](doc/pdf/aczel-1982.pdf)
+* Allais, G. (2017) ["Typing with Leftovers: A mechanization of Intuitionistic Linear Logic"](doc/pdf/allais-2017.pdf)
 * Alechina, N., M. Mendler, V. de Paiva, E. Ritter (2001) [“Categorical and Kripke semantics for constructive S4 modal logic”](doc/pdf/alechina-et-al-2001.pdf)
 * Alt, J., S. Artemov (2001) [“Reflective λ-calculus”](doc/pdf/alt-artemov-2001.pdf)
 * Appel, A. (2001) [“Foundational proof-carrying code”](doc/pdf/appel-2001.pdf)
