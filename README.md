@@ -153,9 +153,9 @@ T
 
 V
 -
-* van der Walt, P. (2012) [“Reflection in Agda”](doc/pdf/vanderwalt-2012.pdf)
 
 W
 -
 * Wadler, P. (2015) [“Propositions as types”](doc/pdf/wadler-2015.pdf)
+* van der Walt, P. (2012) [“Reflection in Agda”](doc/pdf/vanderwalt-2012.pdf)
 * Wand, M. (1998) [“The theory of FEXPRs is trivial”](doc/pdf/wand-1998.pdf)
