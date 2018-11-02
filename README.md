@@ -1,7 +1,7 @@
 dpndnt/library
 ==============
 
-Research library of the `##dependent` IRC channel.
+Research library of the [##dependent](https://www.irccloud.com/invite?channel=%23%23dependent&hostname=irc.freenode.net&port=6697&ssl=1) IRC channel.
 
 A
 -
