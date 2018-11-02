@@ -3,6 +3,8 @@ dpndnt/library
 
 Research library of the [##dependent](https://www.irccloud.com/invite?channel=%23%23dependent&hostname=irc.freenode.net&port=6697&ssl=1) IRC channel.
 
+[A](#A) [B](#B) [C](#C) [D](#D) [E](#E) [F](#F) [G](#G) [H](#H) [I](#I) [J](#J) [K](#K) [L](#L) [M](#M) [N](#N) [O](#O) [P](#P) [Q](#Q) [R](#R) [S](#S) [T](#T) [U](#U) [V](#V) [W](#W) [X](#X) [Y](#Y) [Z](#Z)
+
 A
 -
 * Abel, A. (2012) [“Agda: Equality”](doc/pdf/abel-2012.pdf)
@@ -56,6 +58,9 @@ D
 * Dybjer, P., A. Filinski (2002) [“Normalization and partial evaluation”](doc/pdf/dybjer-filinski-2002.pdf)
 * Dyckhoff, R. (2015) [“Some remarks on proof-theoretic semantics”](doc/pdf/dyckhoff-2015.pdf)
 * Dyckhoff, R., L. Pinto (1997) [“Proof search in constructive logics”](doc/pdf/dyckhoff-pinto-1997.pdf)
+
+E
+-
 
 F
 -
@@ -124,12 +129,18 @@ N
 * Nordstrom, B. (1988) [“Terminating general recursion”](doc/pdf/nordstrom-1988.pdf)
 * Nordstrom, B., K. Petersson, J. Smith (1990) [“Programming in Martin-Löf’s type theory”](doc/pdf/nordstrom-petersson-smith-1990.pdf)
 
+O
+-
+
 P
 -
 * Perlis, A. (1982) [“Epigrams on programming”](doc/pdf/perlis-1982.pdf)
 * Pfenning, F. (2001) [“Intensionality, extensionality, and proof irrelevance in modal type theory”](doc/pdf/pfenning-2001.pdf)
 * Pfenning, F., R. Davies (2001) [“A judgmental reconstruction of modal logic”](doc/pdf/pfenning-davies-2001.pdf)
 * Putnam, H. (1980) [“Models and reality”](doc/pdf/putnam-1980.pdf)
+
+Q
+-
 
 R
 -
@@ -151,6 +162,9 @@ T
 * Thurston, W. (1994) [“On proof and progress in mathematics”](doc/pdf/thurston-1994.pdf)
 * Turner, D. (2004) [“Total functional programming”](doc/pdf/turner-2004.pdf)
 
+U
+-
+
 V
 -
 
@@ -159,3 +173,12 @@ W
 * Wadler, P. (2015) [“Propositions as types”](doc/pdf/wadler-2015.pdf)
 * van der Walt, P. (2012) [“Reflection in Agda”](doc/pdf/vanderwalt-2012.pdf)
 * Wand, M. (1998) [“The theory of FEXPRs is trivial”](doc/pdf/wand-1998.pdf)
+
+X
+-
+
+Y
+-
+
+Z
+-
