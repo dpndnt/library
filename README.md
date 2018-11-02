@@ -149,6 +149,7 @@ T
 -
 * Tarski, A. (1936) [“The concept of truth in formalized languages”](doc/pdf/tarski-1936.pdf)
 * Thurston, W. (1994) [“On proof and progress in mathematics”](doc/pdf/thurston-1994.pdf)
+* Turner, D. (2004) [“Total functional programming”](doc/pdf/turner-2004.pdf)
 
 V
 -
