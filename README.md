@@ -22,6 +22,7 @@ A
 * Artemov, S., R. Iemhoff (2005) [“The basic intuitionistic logic of proofs”](doc/pdf/artemov-iemhoff-2005.pdf)
 * Atkey, R., C. McBride (2013) [“Productive coprogramming with guarded recursion”](doc/pdf/atkey-mcbride-2013.pdf)
 * Augustsson, L. (1985) [“Compiling pattern matching”](doc/pdf/augustsson-1985.pdf)
+* Augustsson, L. (2006) [“λ-calculus cooked four ways”](doc/pdf/augustsson-2006.pdf)
 
 B
 -
