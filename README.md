@@ -43,6 +43,7 @@ C
 * Carette, J., A. Stump (2012) [“Towards typing for small-step direct reflection”](doc/pdf/carette-stump-2012.pdf)
 * Carette, J., O. Kiselyov, C.-C. Shan (2009) [“Finally tagless, partially evaluated: Tagless staged interpreters for simpler typed languages”](doc/pdf/carette-kiselyov-shan-2009.pdf)
 * Chapman, J. (2009) [“Type checking and normalisation”](doc/pdf/chapman-2009.pdf)
+* Chapman, J., R. Kireev, C. Nester, P. Wadler (2019) [“System F in Agda, for fun and profit”](doc/pdf/chapman-kireev-nester-wadler-2019.pdf)
 * Chlipala, A. (2008) [“Parametric higher-order abstract syntax for mechanized semantics”](doc/pdf/chlipala-2008.pdf)
 * Coquand, C. (2002) [“A formalised proof of the soundness and completeness of a simply typed lambda-calculus with explicit substitutions”](doc/pdf/coquand-2002.pdf)
 * Coquand, T. (2004) [“About Brouwer’s fan theorem”](doc/pdf/coquand-2004.pdf)
