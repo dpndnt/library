@@ -138,6 +138,7 @@ P
 * Perlis, A. (1982) [“Epigrams on programming”](doc/pdf/perlis-1982.pdf)
 * Pfenning, F. (2001) [“Intensionality, extensionality, and proof irrelevance in modal type theory”](doc/pdf/pfenning-2001.pdf)
 * Pfenning, F., R. Davies (2001) [“A judgmental reconstruction of modal logic”](doc/pdf/pfenning-davies-2001.pdf)
+* Prawitz, D. (1971) [“Ideas and results in proof theory”](doc/pdf/prawitz-1971.pdf)
 * Putnam, H. (1980) [“Models and reality”](doc/pdf/putnam-1980.pdf)
 
 Q
