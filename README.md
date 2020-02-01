@@ -30,6 +30,8 @@ B
 -
 * Balat, V., R. Di Cosmo, M. Fiore (2004) [“Extensional normalisation and type-directed partial evaluation for typed lambda calculus with sums”](doc/pdf/balat-dicosmo-fiore-2004.pdf)
 * Basin, D., S. Matthews, L. Viganò (1997) [“Labelled propositional modal logics: Theory and practice”](doc/pdf/basin-matthews-vigano-1997.pdf)
+* Bauer, A. (2016) [“On self-interpreters for Gödel’s System T”](doc/pdf/bauer-2016.pdf)
+* Bauer, A. (2016) [“On self-interpreters for System T and other typed λ-calculi”](doc/pdf/bauer-2016-extended.pdf) 
 * Berger, U., H. Schwichtenberg (1991) [“An inverse of the evaluation functional for typed λ-calculus”](doc/pdf/berger-schwichtenberg-1991.pdf)
 * Bernardy, J.-P., P. Jansson, R. Paterson (2010) [“Parametricity and dependent types”](doc/pdf/bernardy-jansson-paterson.pdf)
 * Bierman, G., V. de Paiva (2000) [“On an intuitionistic modal logic”](doc/pdf/bierman-depaiva-2000.pdf)
