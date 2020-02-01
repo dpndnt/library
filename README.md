@@ -29,7 +29,7 @@ A
 
 B
 -
-* Backhouse, R., P. Chisholm, G. Malcolm, E. Saaman (1989) [“Do-it-yourself type theory”](backhouse-chisholm-malcolm-saaman-1989.pdf)
+* Backhouse, R., P. Chisholm, G. Malcolm, E. Saaman (1989) [“Do-it-yourself type theory”](doc/pdf/backhouse-chisholm-malcolm-saaman-1989.pdf)
 * Balat, V., R. Di Cosmo, M. Fiore (2004) [“Extensional normalisation and type-directed partial evaluation for typed lambda calculus with sums”](doc/pdf/balat-dicosmo-fiore-2004.pdf)
 * Basin, D., S. Matthews, L. Viganò (1997) [“Labelled propositional modal logics: Theory and practice”](doc/pdf/basin-matthews-vigano-1997.pdf)
 * Bauer, A. (2016) [“On self-interpreters for Gödel’s System T”](doc/pdf/bauer-2016.pdf)
