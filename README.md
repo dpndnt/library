@@ -9,6 +9,7 @@ A
 -
 * Abel, A. (2012) [“Agda: Equality”](doc/pdf/abel-2012.pdf)
 * Abel, A., J. Chapman (2014) [“Normalization by evaluation in the delay monad: A case study for coinduction via copatterns and sized types”](doc/pdf/abel-chapman-2014.pdf)
+* Abel, A., B. Pientka (2010) [“Explicit substitutions for contextual type theory”](doc/pdf/abel-pientka-2010.pdf)
 * Abramsky, S., A. Jung (1994) [“Domain theory”](doc/pdf/abramsky-jung-1994.pdf)
 * Aczel, P. (1977) [“The type theoretic interpretation of constructive set theory”](doc/pdf/aczel-1977.pdf)
 * Aczel, P. (1982) [“The type theoretic interpretation of constructive set theory: Choice principles”](doc/pdf/aczel-1982.pdf)
