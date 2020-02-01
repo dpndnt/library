@@ -119,6 +119,7 @@ M
 * McBride, C. (2015) [“Turing-completeness totally free”](doc/pdf/mcbride-2015.pdf)
 * McBride, C. (2016) [“I got plenty o’ nuttin’”](doc/pdf/mcbride-2016.pdf)
 * Mealy, G.H. (1955) [“A method for synthesizing sequential circuits”](doc/pdf/mealy-1955.pdf)
+* Mellies, P.-A. (1995) [“Typed λ-calculi with explicit substitutions may not terminate”](doc/pdf/mellies-1995.pdf)
 * Moggi, E. (1989) [“Computational lambda-calculus and monads”](doc/pdf/moggi-1989.pdf)
 * Moggi, E. (1991) [“Notions of computation and monads”](doc/pdf/moggi-1991.pdf)
 * Morris, P. (2007) [“Constructing universes for generic programming”](doc/pdf/morris-2007.pdf)
