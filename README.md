@@ -35,6 +35,7 @@ B
 * Berger, U., H. Schwichtenberg (1991) [“An inverse of the evaluation functional for typed λ-calculus”](doc/pdf/berger-schwichtenberg-1991.pdf)
 * Bernardy, J.-P., P. Jansson, R. Paterson (2010) [“Parametricity and dependent types”](doc/pdf/bernardy-jansson-paterson.pdf)
 * Bierman, G., V. de Paiva (2000) [“On an intuitionistic modal logic”](doc/pdf/bierman-depaiva-2000.pdf)
+* Boespflug, M., B. Pientka (2011) [“Multi-level contextual type theory”](doc/pdf/boespflug-pientka-2011.pdf)
 * Bonelli, E., F. Feller (2009) [“The logic of proofs as a foundation for certifying mobile computation”](doc/pdf/bonelli-feller-2009.pdf)
 * Brown, M., J. Palsberg (2015) [“Self-representation in Girard’s System U”](doc/pdf/brown-palsberg-2015.pdf)
 * Brown, M., J. Palsberg (2016) [“Breaking through the normalization barrier: A self-interpreter for F-omega”](doc/pdf/brown-palsberg-2016.pdf)
