@@ -100,6 +100,7 @@ J
 K
 -
 * Keller, C., T. Altenkirch (2010) [“Hereditary substitutions for simple types, formalized”](doc/pdf/keller-altenkirch-2010.pdf)
+* Kesner, D. (2007) [“The theory of calculi with explicit substitutions revisited”](doc/pdf/kesner-2007.pdf)
 * Kovács, A. (2017) [“A machine-checked correctness proof of normalization by evaluation for simply typed lambda calculus”](doc/pdf/kovacs-2017.pdf)
 * Kripke, S. (1963) [“Semantical analysis of modal logic I: Normal modal logic propositional calculi”](doc/pdf/kripke-1963.pdf)
 
