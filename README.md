@@ -86,7 +86,7 @@ G
 H
 -
 * Hagino, T. (1987) [“A categorical programming language”](doc/pdf/hagino-1987.pdf)
-* Halpern, J. Y., et al. (2001) [“On the unusual effectiveness of logic in computer science”](doc/pdf/halpern-et-al-2001.pdf)
+* Halpern, J.Y., et al. (2001) [“On the unusual effectiveness of logic in computer science”](doc/pdf/halpern-et-al-2001.pdf)
 * Harrison, J. (1995) [“Metatheory and reflection in theorem proving: A survey and critique”](doc/pdf/harrison-1995.pdf)
 * Heyting, A. (1956) [“Intuitionism: An introduction”](doc/pdf/heyting-1956.pdf)
 * Hofmann, M. (1997) [“Extensional constructs in intensional type theory”](doc/pdf/hofmann-1997.pdf)
@@ -112,7 +112,7 @@ L
 * Lamport, L. (1978) [“Time, clocks, and the ordering of events in a distributed system”](doc/pdf/lamport-1978.pdf)
 * Leivant, D. (1991) [“Finely stratified polymorphism”](doc/pdf/leivant-1991.pdf)
 * Lewis, C., C. Langford (1932) [“The structure of the system of strict implication”](doc/pdf/lewis-langford-1932.pdf)
-* Licata, D. R., R. Harper (2010) [“A monadic formalization of ML5”](doc/pdf/licata-harper-2010.pdf)
+* Licata, D.R., R. Harper (2010) [“A monadic formalization of ML5”](doc/pdf/licata-harper-2010.pdf)
 * Lindley, S. (2005) [“Normalisation by evaluation in the compilation of typed functional programming languages”](doc/pdf/lindley-2005.pdf)
 * Löh, A., C. McBride, W. Swierstra (2010) [“A tutorial implementation of a dependently typed lambda calculus”](doc/pdf/loh-mcbride-swierstra-2010.pdf)
 
@@ -172,7 +172,7 @@ S
 
 T
 -
-* Tait, W. W. (1967) [“Intensional interpretations of functionals of finite type I”](doc/pdf/tait-1967.pdf)
+* Tait, W.W. (1967) [“Intensional interpretations of functionals of finite type I”](doc/pdf/tait-1967.pdf)
 * Tarski, A. (1936) [“The concept of truth in formalized languages”](doc/pdf/tarski-1936.pdf)
 * Thurston, W. (1994) [“On proof and progress in mathematics”](doc/pdf/thurston-1994.pdf)
 * Turner, D. (2004) [“Total functional programming”](doc/pdf/turner-2004.pdf)
