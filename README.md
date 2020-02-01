@@ -112,6 +112,7 @@ L
 * Lamport, L. (1978) [“Time, clocks, and the ordering of events in a distributed system”](doc/pdf/lamport-1978.pdf)
 * Leivant, D. (1991) [“Finely stratified polymorphism”](doc/pdf/leivant-1991.pdf)
 * Lewis, C., C. Langford (1932) [“The structure of the system of strict implication”](doc/pdf/lewis-langford-1932.pdf)
+* Licata, D. R., R. Harper (2010) [“A monadic formalization of ML5”](doc/pdf/licata-harper-2010.pdf)
 * Lindley, S. (2005) [“Normalisation by evaluation in the compilation of typed functional programming languages”](doc/pdf/lindley-2005.pdf)
 * Löh, A., C. McBride, W. Swierstra (2010) [“A tutorial implementation of a dependently typed lambda calculus”](doc/pdf/loh-mcbride-swierstra-2010.pdf)
 
