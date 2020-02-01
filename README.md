@@ -55,6 +55,7 @@ C
 D
 -
 * Danielsson, N. (2012) [“Operational semantics using the partiality monad”](doc/pdf/danielsson-2012.pdf)
+* David, R., B. Guillaume (2001) [“A λ-calculus with explicit weakening and explicit substitution”](doc/pdf/david-guillaume-2001.pdf)
 * Davy, O., M. Rhiger, K. Rose (2001) [“Normalization by evaluation with typed abstract syntax”](doc/pdf/danvy-2001.pdf)
 * Davies, R. (1996) [“A temporal-logic approach to binding-time analysis”](doc/pdf/davies-1996.pdf)
 * Davies, R., F. Pfenning (1996) [“A modal analysis of staged computation”](doc/pdf/davies-pfenning-1996.pdf)
