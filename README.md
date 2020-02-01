@@ -62,6 +62,7 @@ D
 * Davies, R., F. Pfenning (1996) [“A modal analysis of staged computation”](doc/pdf/davies-pfenning-1996.pdf)
 * Davies, R., F. Pfenning (2001) [“A modal analysis of staged computation”](doc/pdf/davies-pfenning-2001.pdf)
 * Despeyroux, J., F. Pfenning, C. Schürmann (1997) [“Primitive recursion for higher-order abstract syntax”](doc/pdf/despeyroux-pfenning-schurmann-1997.pdf)
+* Dybjer, P. (1994) [“Inductive families”](doc/pdf/dybjer-1994.pdf)
 * Dybjer, P., A. Filinski (2002) [“Normalization and partial evaluation”](doc/pdf/dybjer-filinski-2002.pdf)
 * Dyckhoff, R. (2015) [“Some remarks on proof-theoretic semantics”](doc/pdf/dyckhoff-2015.pdf)
 * Dyckhoff, R., L. Pinto (1997) [“Proof search in constructive logics”](doc/pdf/dyckhoff-pinto-1997.pdf)
