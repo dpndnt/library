@@ -51,8 +51,9 @@ C
 * Chapman, J., R. Kireev, C. Nester, P. Wadler (2019) [“System F in Agda, for fun and profit”](doc/pdf/chapman-kireev-nester-wadler-2019.pdf)
 * Chlipala, A. (2008) [“Parametric higher-order abstract syntax for mechanized semantics”](doc/pdf/chlipala-2008.pdf)
 * Coquand, C. (2002) [“A formalised proof of the soundness and completeness of a simply typed lambda-calculus with explicit substitutions”](doc/pdf/coquand-2002.pdf)
-* Coquand, T. (2004) [“About Brouwer’s fan theorem”](doc/pdf/coquand-2004.pdf)
+* Coquand, T., P. Dybjer (1994) [“Inductive definitions and type theory: An introduction (Preliminary version)”](doc/pdf/coquand-dybjer-1994.pdf)
 * Coquand, T., P. Dybjer (1997) [“Intuitionistic model constructions and normalization proofs”](doc/pdf/coquand-dybjer-1997.pdf)
+* Coquand, T. (2004) [“About Brouwer’s fan theorem”](doc/pdf/coquand-2004.pdf)
 
 D
 -
