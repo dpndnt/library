@@ -105,6 +105,7 @@ J
 
 K
 -
+* Karger, P.A., R.R. Schell (1974) [“Multics security evaluation: Vulnerability analysis”](doc/pdf/karger-schell-1974.pdf)
 * Keller, C., T. Altenkirch (2010) [“Hereditary substitutions for simple types, formalized”](doc/pdf/keller-altenkirch-2010.pdf)
 * Kesner, D. (2007) [“The theory of calculi with explicit substitutions revisited”](doc/pdf/kesner-2007.pdf)
 * Kovács, A. (2017) [“A machine-checked correctness proof of normalization by evaluation for simply typed lambda calculus”](doc/pdf/kovacs-2017.pdf)
