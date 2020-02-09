@@ -177,6 +177,7 @@ T
 -
 * Tait, W.W. (1967) [“Intensional interpretations of functionals of finite type I”](doc/pdf/tait-1967.pdf)
 * Tarski, A. (1936) [“The concept of truth in formalized languages”](doc/pdf/tarski-1936.pdf)
+* Thompson, K. (1984) [“Reflections on trusting trust”](doc/pdf/thompson-1984.pdf)
 * Thurston, W. (1994) [“On proof and progress in mathematics”](doc/pdf/thurston-1994.pdf)
 * Turner, D. (2004) [“Total functional programming”](doc/pdf/turner-2004.pdf)
 
