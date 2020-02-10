@@ -168,7 +168,7 @@ R
 S
 -
 * Schroeder-Heister, P. (2010) [“The categorical and the hypothetical: A critique of some fundamental assumptions of standard semantics”](doc/pdf/schroederheister-2010.pdf)
-* Seldin, J.P, J.R. Hindley (1980) [“To H.B. Curry: Essays on combinatory logic, lambda calculus and formalism”](doc/pdf/seldin-hindley-1980.pdf)
+* Seldin, J.P., J.R. Hindley (1980) [“To H.B. Curry: Essays on combinatory logic, lambda calculus and formalism”](doc/pdf/seldin-hindley-1980.pdf)
 * Sheard, T. (2001) [“Accomplishments and research challenges in meta-programming”](doc/pdf/sheard-2001.pdf)
 * Simmons, R., B. Toninho (2011) [“Constructive provability logic”](doc/pdf/simmons-toninho-2011.pdf)
 * Simpson, A. (1994) [“The proof theory and semantics of intuitionistic modal logic”](doc/pdf/simpson-1994.pdf)
