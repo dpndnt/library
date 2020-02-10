@@ -150,6 +150,7 @@ O
 P
 -
 * Perlis, A. (1982) [“Epigrams on programming”](doc/pdf/perlis-1982.pdf)
+* Pfenning, F., P. Lee (1991) [“Metacircularity in the polymorphic λ-calculus”](doc/pdf/pfenning-lee-1991.pdf)
 * Pfenning, F. (2001) [“Intensionality, extensionality, and proof irrelevance in modal type theory”](doc/pdf/pfenning-2001.pdf)
 * Pfenning, F., R. Davies (2001) [“A judgmental reconstruction of modal logic”](doc/pdf/pfenning-davies-2001.pdf)
 * Pfenning, F. (2007) [“On a logical foundation for explicit substitutions”](doc/pdf/pfenning-2007.pdf)
