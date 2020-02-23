@@ -166,6 +166,7 @@ Q
 R
 -
 * Rendel, T., K. Ostermann, C. Hofer (2009) [“Typed self-representation”](doc/pdf/rendel-ostermann-hofer-2009.pdf)
+* Reynolds, J.C. (1984) [“Polymorphism is not set-theoretic”](doc/pdf/reynolds-1984.pdf)
 
 S
 -
