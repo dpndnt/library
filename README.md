@@ -178,7 +178,7 @@ S
 * A. Simpson (1994) [“The proof theory and semantics of intuitionistic modal logic”](doc/pdf/simpson-1994.pdf)
 * G. Steren, E. Bonelli (2014) [“Intuitionistic hypothetical logic of proofs”](doc/pdf/steren-bonelli-2014.pdf)
 * T. Studer (2012) [“Lectures on justification logic”](doc/pdf/studer-2012.pdf)
-* A .Stump (2009) [“Directly reflective meta-programming”](doc/pdf/stump-2009.pdf)
+* A. Stump (2009) [“Directly reflective meta-programming”](doc/pdf/stump-2009.pdf)
 
 T
 -
