@@ -8,6 +8,7 @@ Research library of the [##dependent](https://www.irccloud.com/invite?channel=%2
 A
 -
 * Abel, A. (2012) [“Agda: Equality”](doc/pdf/abel-2012.pdf)
+* Abel, A., S. Adelsberger, A. Setzer (2017) [“Interactive programming in Agda: Objects and graphical user interfaces”](doc/pdf/abel-adelsberger-setzer-2017.pdf)
 * Abel, A., J. Chapman (2014) [“Normalization by evaluation in the delay monad: A case study for coinduction via copatterns and sized types”](doc/pdf/abel-chapman-2014.pdf)
 * Abel, A., B. Pientka (2010) [“Explicit substitutions for contextual type theory”](doc/pdf/abel-pientka-2010.pdf)
 * Abramsky, S., A. Jung (1994) [“Domain theory”](doc/pdf/abramsky-jung-1994.pdf)
