@@ -19,9 +19,9 @@ A
 * Appel, A. (2001) [“Foundational proof-carrying code”](doc/pdf/appel-2001.pdf)
 * Artemov, S. (1999) [“On explicit reflection in theorem proving and formal verification”](doc/pdf/artemov-1999.pdf)
 * Artemov, S. (2001) [“Explicit provability and constructive semantics”](doc/pdf/artemov-2001.pdf)
+* Artemov, S., E. Barzilay, R. Constable, A. Nogin (2001) [“Reflection and propositions-as-types”](doc/pdf/artemov-et-al-2001.pdf)
 * Artemov, S., L. Beklemishev, (2005) [“Provability logic”](doc/pdf/artemov-beklemishev-2005.pdf)
 * Artemov, S., E. Bonelli (2007) [“The intensional lambda calculus”](doc/pdf/artemov-bonelli-2007.pdf)
-* Artemov, S., E. Barzilay, R. Constable, A. Nogin (2001) [“Reflection and propositions-as-types”](doc/pdf/artemov-et-al-2001.pdf)
 * Artemov, S., R. Iemhoff (2005) [“The basic intuitionistic logic of proofs”](doc/pdf/artemov-iemhoff-2005.pdf)
 * Atkey, R., C. McBride (2013) [“Productive coprogramming with guarded recursion”](doc/pdf/atkey-mcbride-2013.pdf)
 * Augustsson, L. (1985) [“Compiling pattern matching”](doc/pdf/augustsson-1985.pdf)
@@ -45,15 +45,15 @@ B
 
 C
 -
-* Carette, J., A. Stump (2012) [“Towards typing for small-step direct reflection”](doc/pdf/carette-stump-2012.pdf)
 * Carette, J., O. Kiselyov, C.-C. Shan (2009) [“Finally tagless, partially evaluated: Tagless staged interpreters for simpler typed languages”](doc/pdf/carette-kiselyov-shan-2009.pdf)
+* Carette, J., A. Stump (2012) [“Towards typing for small-step direct reflection”](doc/pdf/carette-stump-2012.pdf)
 * Chapman, J. (2009) [“Type checking and normalisation”](doc/pdf/chapman-2009.pdf)
 * Chapman, J., R. Kireev, C. Nester, P. Wadler (2019) [“System F in Agda, for fun and profit”](doc/pdf/chapman-kireev-nester-wadler-2019.pdf)
 * Chlipala, A. (2008) [“Parametric higher-order abstract syntax for mechanized semantics”](doc/pdf/chlipala-2008.pdf)
 * Coquand, C. (2002) [“A formalised proof of the soundness and completeness of a simply typed lambda-calculus with explicit substitutions”](doc/pdf/coquand-2002.pdf)
+* Coquand, T. (2004) [“About Brouwer’s fan theorem”](doc/pdf/coquand-2004.pdf)
 * Coquand, T., P. Dybjer (1994) [“Inductive definitions and type theory: An introduction (Preliminary version)”](doc/pdf/coquand-dybjer-1994.pdf)
 * Coquand, T., P. Dybjer (1997) [“Intuitionistic model constructions and normalization proofs”](doc/pdf/coquand-dybjer-1997.pdf)
-* Coquand, T. (2004) [“About Brouwer’s fan theorem”](doc/pdf/coquand-2004.pdf)
 
 D
 -
@@ -152,10 +152,10 @@ O
 P
 -
 * Perlis, A. (1982) [“Epigrams on programming”](doc/pdf/perlis-1982.pdf)
-* Pfenning, F., P. Lee (1991) [“Metacircularity in the polymorphic λ-calculus”](doc/pdf/pfenning-lee-1991.pdf)
 * Pfenning, F. (2001) [“Intensionality, extensionality, and proof irrelevance in modal type theory”](doc/pdf/pfenning-2001.pdf)
-* Pfenning, F., R. Davies (2001) [“A judgmental reconstruction of modal logic”](doc/pdf/pfenning-davies-2001.pdf)
 * Pfenning, F. (2007) [“On a logical foundation for explicit substitutions”](doc/pdf/pfenning-2007.pdf)
+* Pfenning, F., R. Davies (2001) [“A judgmental reconstruction of modal logic”](doc/pdf/pfenning-davies-2001.pdf)
+* Pfenning, F., P. Lee (1991) [“Metacircularity in the polymorphic λ-calculus”](doc/pdf/pfenning-lee-1991.pdf)
 * Pientka, B. (2007) [“Functional programming with higher-order abstract syntax and explicit substitutions”](doc/pdf/pientka-2007.pdf)
 * Prawitz, D. (1971) [“Ideas and results in proof theory”](doc/pdf/prawitz-1971.pdf)
 * Putnam, H. (1980) [“Models and reality”](doc/pdf/putnam-1980.pdf)
