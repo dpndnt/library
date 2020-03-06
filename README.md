@@ -193,6 +193,7 @@ U
 
 V
 -
+* W. Veldman (1976) [“An intuitionistic completeness theorem for intuitionistic predicate logic”](doc/pdf/veldman-1976.pdf)
 
 W
 -
