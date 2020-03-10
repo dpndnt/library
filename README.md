@@ -93,6 +93,7 @@ H
 * J.Y. Halpern, et al. (2001) [“On the unusual effectiveness of logic in computer science”](doc/pdf/halpern-et-al-2001.pdf)
 * J. Harrison (1995) [“Metatheory and reflection in theorem proving: A survey and critique”](doc/pdf/harrison-1995.pdf)
 * A. Heyting (1956) [“Intuitionism: An introduction”](doc/pdf/heyting-1956.pdf)
+* C.A.R. Hoare, D.C.S. Allison (1972) [“Incomputability”](doc/pdf/hoare-allison-1972.pdf)
 * M. Hofmann (1997) [“Extensional constructs in intensional type theory”](doc/pdf/hofmann-1997.pdf)
 
 I
