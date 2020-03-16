@@ -189,6 +189,7 @@ T
 * A. Tarski (1936) [“The concept of truth in formalized languages”](doc/pdf/tarski-1936.pdf)
 * K. Thompson (1984) [“Reflections on trusting trust”](doc/pdf/thompson-1984.pdf)
 * W. Thurston (1994) [“On proof and progress in mathematics”](doc/pdf/thurston-1994.pdf)
+* D. Turner (1979) [“A new implementation technique for applicative languages”](doc/pdf/turner-1979.pdf)
 * D. Turner (2004) [“Total functional programming”](doc/pdf/turner-2004.pdf)
 
 U
