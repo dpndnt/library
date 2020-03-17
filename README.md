@@ -46,6 +46,7 @@ B
 
 C
 -
+* J. Carette, C.-H. Chen, V. Choudhury, A. Sabry (2018) [“From reversible programs to univalent universes and back”](doc/pdf/carette-chen-choudhury-sabry.pdf)
 * J. Carette, O. Kiselyov, C.-C. Shan (2009) [“Finally tagless, partially evaluated: Tagless staged interpreters for simpler typed languages”](doc/pdf/carette-kiselyov-shan-2009.pdf)
 * J. Carette, A. Stump (2012) [“Towards typing for small-step direct reflection”](doc/pdf/carette-stump-2012.pdf)
 * J. Chapman (2009) [“Type checking and normalisation”](doc/pdf/chapman-2009.pdf)
@@ -79,6 +80,8 @@ F
 * A. Filinski (2001) [“Normalization by evaluation for the computational lambda-calculus”](doc/pdf/filinski-2001.pdf)
 * K. Foner (2015) [“Getting a quick fix on comonads”](doc/pdf/foner-2015.pdf)
 * N. Francez (2017) [“Does the implication elimination rule need a minor premise?”](doc/pdf/francez-2017.pdf)
+* E. Fredkin (2003) [“An introduction to digital philosophy”](doc/pdf/fredkin-2003.pdf)
+* E. Fredkin, T. Toffoli (1982) [“Conservative logic”](doc/pdf/fredkin-toffoli-1982.pdf)
 
 G
 -
@@ -134,6 +137,7 @@ M
 * G.H. Mealy (1955) [“A method for synthesizing sequential circuits”](doc/pdf/mealy-1955.pdf)
 * P.-A. Mellies (1995) [“Typed λ-calculi with explicit substitutions may not terminate”](doc/pdf/mellies-1995.pdf)
 * P.F. Mendler (1987) [“Inductive definition in type theory”](doc/pdf/mendler-1987.pdf)
+* D.B. Miller, E. Fredkin (2005) [“Two-state, reversible, universal cellular automata in three dimensions”](doc/pdf/miller-fredkin-2005.pdf)
 * E. Moggi (1989) [“Computational lambda-calculus and monads”](doc/pdf/moggi-1989.pdf)
 * E. Moggi (1991) [“Notions of computation and monads”](doc/pdf/moggi-1991.pdf)
 * P. Morris (2007) [“Constructing universes for generic programming”](doc/pdf/morris-2007.pdf)
@@ -189,6 +193,7 @@ T
 * A. Tarski (1936) [“The concept of truth in formalized languages”](doc/pdf/tarski-1936.pdf)
 * K. Thompson (1984) [“Reflections on trusting trust”](doc/pdf/thompson-1984.pdf)
 * W. Thurston (1994) [“On proof and progress in mathematics”](doc/pdf/thurston-1994.pdf)
+* T. Toffoli (1980) [“Reversible computing”](doc/pdf/toffoli-1980.pdf)
 * D. Turner (1979) [“A new implementation technique for applicative languages”](doc/pdf/turner-1979.pdf)
 * D. Turner (2004) [“Total functional programming”](doc/pdf/turner-2004.pdf)
 
