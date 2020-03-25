@@ -36,7 +36,7 @@ B
 * A. Bauer (2016) [“On self-interpreters for Gödel’s System T”](doc/pdf/bauer-2016.pdf)
 * A. Bauer (2016) [“On self-interpreters for System T and other typed λ-calculi”](doc/pdf/bauer-2016-extended.pdf)
 * U. Berger, H. Schwichtenberg (1991) [“An inverse of the evaluation functional for typed λ-calculus”](doc/pdf/berger-schwichtenberg-1991.pdf)
-* J.-P. Bernardy, P. Jansson, R. Paterson (2010) [“Parametricity and dependent types”](doc/pdf/bernardy-jansson-paterson.pdf)
+* J.-P. Bernardy, P. Jansson, R. Paterson (2010) [“Parametricity and dependent types”](doc/pdf/bernardy-jansson-paterson-2010.pdf)
 * G. Bierman, V. de Paiva (2000) [“On an intuitionistic modal logic”](doc/pdf/bierman-depaiva-2000.pdf)
 * M. Boespflug, B. Pientka (2011) [“Multi-level contextual type theory”](doc/pdf/boespflug-pientka-2011.pdf)
 * E. Bonelli, F. Feller (2009) [“The logic of proofs as a foundation for certifying mobile computation”](doc/pdf/bonelli-feller-2009.pdf)
@@ -46,7 +46,7 @@ B
 
 C
 -
-* J. Carette, C.-H. Chen, V. Choudhury, A. Sabry (2018) [“From reversible programs to univalent universes and back”](doc/pdf/carette-chen-choudhury-sabry.pdf)
+* J. Carette, C.-H. Chen, V. Choudhury, A. Sabry (2018) [“From reversible programs to univalent universes and back”](doc/pdf/carette-chen-choudhury-sabry-2018.pdf)
 * J. Carette, O. Kiselyov, C.-C. Shan (2009) [“Finally tagless, partially evaluated: Tagless staged interpreters for simpler typed languages”](doc/pdf/carette-kiselyov-shan-2009.pdf)
 * J. Carette, A. Stump (2012) [“Towards typing for small-step direct reflection”](doc/pdf/carette-stump-2012.pdf)
 * J. Chapman (2009) [“Type checking and normalisation”](doc/pdf/chapman-2009.pdf)
