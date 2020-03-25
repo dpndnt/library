@@ -107,6 +107,7 @@ I
 
 J
 -
+* R.P. James (2013) [“The computational content of isomorphisms”](doc/pdf/james-2013.pdf)
 * E.T. Jaynes (1989) [“Clearing up mysteries: The original goal”](doc/pdf/jaynes-1989.pdf)
 * F. Joachimski, R. Matthes (2003) [“Short proofs of normalization for the simply-typed λ-calculus, permutative conversions, and Gödel’s T”](doc/pdf/joachimski-matthes-2002.pdf)
 
