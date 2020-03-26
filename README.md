@@ -66,6 +66,7 @@ D
 * R. Davies, F. Pfenning (1996) [“A modal analysis of staged computation”](doc/pdf/davies-pfenning-1996.pdf)
 * R. Davies, F. Pfenning (2001) [“A modal analysis of staged computation”](doc/pdf/davies-pfenning-2001.pdf)
 * J. Despeyroux, F. Pfenning, C. Schürmann (1997) [“Primitive recursion for higher-order abstract syntax”](doc/pdf/despeyroux-pfenning-schurmann-1997.pdf)
+* L. Diehl (2017) [“Fully generic programming over closed universes of inductive-recursive types”](doc/pdf/diehl-2017.pdf)
 * P. Dybjer (1994) [“Inductive families”](doc/pdf/dybjer-1994.pdf)
 * P. Dybjer, A. Filinski (2002) [“Normalization and partial evaluation”](doc/pdf/dybjer-filinski-2002.pdf)
 * R. Dyckhoff (2015) [“Some remarks on proof-theoretic semantics”](doc/pdf/dyckhoff-2015.pdf)
