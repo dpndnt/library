@@ -159,6 +159,7 @@ N
 
 O
 -
+* M. O’Neill (2008) [“The genuine sieve of Eratosthenes”](doc/pdf/oneill-2008.pdf)
 
 P
 -
