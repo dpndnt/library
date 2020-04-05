@@ -43,6 +43,7 @@ B
 * M. Brown, J. Palsberg (2015) [“Self-representation in Girard’s System U”](doc/pdf/brown-palsberg-2015.pdf)
 * M. Brown, J. Palsberg (2016) [“Breaking through the normalization barrier: A self-interpreter for F-omega”](doc/pdf/brown-palsberg-2016.pdf)
 * M. Burrell, R. Cockett, B. Redmond (2009) [“Pola: A language for PTIME programming”](doc/pdf/burrell-cockett-redmond-2009.pdf)
+* E. Burrows (2009) [“A combinator processor”](doc/pdf/burrows-2009.pdf)
 
 C
 -
