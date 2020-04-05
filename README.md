@@ -62,6 +62,7 @@ C
 
 D
 -
+* L. Damas, R. Milner (1982) [“Principal type-schemes for functional programs”](doc/pdf/damas-milner-1982.pdf)
 * N. Danielsson (2012) [“Operational semantics using the partiality monad”](doc/pdf/danielsson-2012.pdf)
 * R. David, B. Guillaume (2001) [“A λ-calculus with explicit weakening and explicit substitution”](doc/pdf/david-guillaume-2001.pdf)
 * O. Danvy, M. Rhiger, K. Rose (2001) [“Normalization by evaluation with typed abstract syntax”](doc/pdf/danvy-2001.pdf)
