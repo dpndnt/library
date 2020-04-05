@@ -154,6 +154,7 @@ N
 * H. Nakano (2000) [“A modality for recursion”](doc/pdf/nakano-2000.pdf)
 * H. Nakano (2001) [“Fixed-point logic with the approximation modality and its Kripke completeness”](doc/pdf/nakano-2001.pdf)
 * A. Nanevski, F. Pfenning, B. Pientka (2007) [“Contextual modal type theory”](doc/pdf/nanevski-pfenning-pientka-2007.pdf)
+* M. Naylor (2009) [“Hardware-assisted and target-directed evaluation of functional programs”](doc/pdf/naylor-2009.pdf)
 * S. Negri (2005) [“Proof analysis in modal logic”](doc/pdf/negri-2005.pdf)
 * S. Negri (2011) [“Proof theory for modal logic”](doc/pdf/negri-2011.pdf)
 * E. Nogina (2014) [“On logic of formal provability and explicit proofs”](doc/pdf/nogina-2014.pdf)
