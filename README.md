@@ -23,6 +23,7 @@ A
 * S. Artemov, E. Barzilay, R. Constable, A. Nogin (2001) [“Reflection and propositions-as-types”](doc/pdf/artemov-et-al-2001.pdf)
 * S. Artemov, L. Beklemishev (2005) [“Provability logic”](doc/pdf/artemov-beklemishev-2005.pdf)
 * S. Artemov, E. Bonelli (2007) [“The intensional lambda calculus”](doc/pdf/artemov-bonelli-2007.pdf)
+* S. Artemov, M. Fitting (2019) [“Justification logic: Reasoning with reasons”](doc/pdf/artemov-fitting-2019.pdf)
 * S. Artemov, R. Iemhoff (2005) [“The basic intuitionistic logic of proofs”](doc/pdf/artemov-iemhoff-2005.pdf)
 * R. Atkey, C. McBride (2013) [“Productive coprogramming with guarded recursion”](doc/pdf/atkey-mcbride-2013.pdf)
 * L. Augustsson (1985) [“Compiling pattern matching”](doc/pdf/augustsson-1985.pdf)
