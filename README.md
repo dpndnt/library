@@ -71,6 +71,7 @@ D
 * R. Davies, F. Pfenning (1996) [“A modal analysis of staged computation”](doc/pdf/davies-pfenning-1996.pdf)
 * R. Davies, F. Pfenning (2001) [“A modal analysis of staged computation”](doc/pdf/davies-pfenning-2001.pdf)
 * J. Despeyroux, F. Pfenning, C. Schürmann (1997) [“Primitive recursion for higher-order abstract syntax”](doc/pdf/despeyroux-pfenning-schurmann-1997.pdf)
+* L. Diehl, D. Firsov, A. Stump (2018) [“Generic zero-cost reuse for dependent types”](doc/pdf/diehl-firsov-stump-2018.pdf)
 * L. Diehl (2017) [“Fully generic programming over closed universes of inductive-recursive types”](doc/pdf/diehl-2017.pdf)
 * P. Dybjer (1994) [“Inductive families”](doc/pdf/dybjer-1994.pdf)
 * P. Dybjer, A. Filinski (2002) [“Normalization and partial evaluation”](doc/pdf/dybjer-filinski-2002.pdf)
@@ -93,6 +94,7 @@ F
 G
 -
 * M. Gabbay, A. Nanevski (2012) [“Denotation of contextual modal type theory: Syntax and meta-programming”](doc/pdf/gabbay-nanevski-2012.pdf)
+* H. Geuvers (2001) [“Induction is not derivable in second order dependent type theory“](doc/pdf/geuvers-2001.pdf)
 * H. Geuvers (2009) [“Proof assistants: History, ideas and future”](doc/pdf/geuvers-2009.pdf)
 * K. Gödel (1933) [“An interpretation of the intuitionistic propositional calculus”](doc/pdf/godel-1933.pdf)
 * K. Gödel (1938) [“Lecture at Zilsel’s”](doc/pdf/godel-1938.pdf)
@@ -146,6 +148,7 @@ M
 * P.-A. Mellies (1995) [“Typed λ-calculi with explicit substitutions may not terminate”](doc/pdf/mellies-1995.pdf)
 * P.F. Mendler (1987) [“Inductive definition in type theory”](doc/pdf/mendler-1987.pdf)
 * D.B. Miller, E. Fredkin (2005) [“Two-state, reversible, universal cellular automata in three dimensions”](doc/pdf/miller-fredkin-2005.pdf)
+* A. Miquel (2001) [”The implicit calculus of constructions”](doc/pdf/miquel-2001.pdf)
 * E. Moggi (1989) [“Computational lambda-calculus and monads”](doc/pdf/moggi-1989.pdf)
 * E. Moggi (1991) [“Notions of computation and monads”](doc/pdf/moggi-1991.pdf)
 * P. Morris (2007) [“Constructing universes for generic programming”](doc/pdf/morris-2007.pdf)
@@ -170,6 +173,7 @@ O
 
 P
 -
+* M. Parigot (1989) [”On the representation of data in lambda-calculus”](doc/pdf/parigot-1989.pdf)
 * A. Perlis (1982) [“Epigrams on programming”](doc/pdf/perlis-1982.pdf)
 * F. Pfenning (2001) [“Intensionality, extensionality, and proof irrelevance in modal type theory”](doc/pdf/pfenning-2001.pdf)
 * F. Pfenning (2007) [“On a logical foundation for explicit substitutions”](doc/pdf/pfenning-2007.pdf)
