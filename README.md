@@ -223,6 +223,7 @@ U
 V
 -
 * W. Veldman (1976) [“An intuitionistic completeness theorem for intuitionistic predicate logic”](doc/pdf/veldman-1976.pdf)
+* V. Voevodsky (2014) [“The origins and motivations of univalent foundations”](doc/pdf/voevodsky-2014.pdf)
 
 W
 -
