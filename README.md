@@ -58,6 +58,7 @@ C
 * C.J. Cheney (1970) [“A nonrecursive list compacting algorithm”](doc/pdf/cheney-1970.pdf)
 * A. Chlipala (2008) [“Parametric higher-order abstract syntax for mechanized semantics”](doc/pdf/chlipala-2008.pdf)
 * T.J.W. Clarke, P.J.S. Gladstone, C.D. MacLean, A.C. Norman (1980) [“SKIM: The S, K, I reduction machine”](doc/pdf/clarke-gladstone-maclean-norman-1980.pdf)
+* L. Convent, S. Lindley, C. McBride, C. McLaughlin (2020) [“Doo bee doo bee doo”](doc/pdf/convent-lindley-mcbride-mclaughlin-2020.pdf)
 * C. Coquand (2002) [“A formalised proof of the soundness and completeness of a simply typed lambda-calculus with explicit substitutions”](doc/pdf/coquand-2002.pdf)
 * T. Coquand (2004) [“About Brouwer’s fan theorem”](doc/pdf/coquand-2004.pdf)
 * T. Coquand, P. Dybjer (1994) [“Inductive definitions and type theory: An introduction (Preliminary version)”](doc/pdf/coquand-dybjer-1994.pdf)
