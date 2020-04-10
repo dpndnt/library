@@ -57,6 +57,7 @@ C
 * J. Chapman, R. Kireev, C. Nester, P. Wadler (2019) [“System F in Agda, for fun and profit”](doc/pdf/chapman-kireev-nester-wadler-2019.pdf)
 * C.J. Cheney (1970) [“A nonrecursive list compacting algorithm”](doc/pdf/cheney-1970.pdf)
 * A. Chlipala (2008) [“Parametric higher-order abstract syntax for mechanized semantics”](doc/pdf/chlipala-2008.pdf)
+* D.R. Christiansen (2013) [“Bidirectional typing rules: A tutorial”](doc/pdf/christiansen-2013.pdf)
 * T.J.W. Clarke, P.J.S. Gladstone, C.D. MacLean, A.C. Norman (1980) [“SKIM: The S, K, I reduction machine”](doc/pdf/clarke-gladstone-maclean-norman-1980.pdf)
 * L. Convent, S. Lindley, C. McBride, C. McLaughlin (2020) [“Doo bee doo bee doo”](doc/pdf/convent-lindley-mcbride-mclaughlin-2020.pdf)
 * C. Coquand (2002) [“A formalised proof of the soundness and completeness of a simply typed lambda-calculus with explicit substitutions”](doc/pdf/coquand-2002.pdf)
