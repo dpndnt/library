@@ -77,6 +77,7 @@ D
 * J. Despeyroux, F. Pfenning, C. Schürmann (1997) [“Primitive recursion for higher-order abstract syntax”](doc/pdf/despeyroux-pfenning-schurmann-1997.pdf)
 * L. Diehl, D. Firsov, A. Stump (2018) [“Generic zero-cost reuse for dependent types”](doc/pdf/diehl-firsov-stump-2018.pdf)
 * L. Diehl (2017) [“Fully generic programming over closed universes of inductive-recursive types”](doc/pdf/diehl-2017.pdf)
+* J. Dunfield, N. Krishnaswami (2019) [“Bidirectional typing”](doc/pdf/dunfield-krishnaswami-2019.pdf)
 * P. Dybjer (1994) [“Inductive families”](doc/pdf/dybjer-1994.pdf)
 * P. Dybjer, A. Filinski (2002) [“Normalization and partial evaluation”](doc/pdf/dybjer-filinski-2002.pdf)
 * R. Dyckhoff (2015) [“Some remarks on proof-theoretic semantics”](doc/pdf/dyckhoff-2015.pdf)
