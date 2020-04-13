@@ -234,6 +234,7 @@ W
 * P. Wadler (2015) [“Propositions as types”](doc/pdf/wadler-2015.pdf)
 * P. van der Walt (2012) [“Reflection in Agda”](doc/pdf/vanderwalt-2012.pdf)
 * M. Wand (1998) [“The theory of FEXPRs is trivial”](doc/pdf/wand-1998.pdf)
+* M. Wand, D.P. Friedman (1986) [“The mystery of the tower revealed: A non-reflective description of the reflective tower”](doc/pdf/wand-friedman-1986.pdf)
 * B. Werner (1997) [“Sets in types, types in sets”](doc/pdf/werner-1997.pdf)
 
 X
