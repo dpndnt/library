@@ -101,6 +101,7 @@ G
 * M. Gabbay, A. Nanevski (2012) [“Denotation of contextual modal type theory: Syntax and meta-programming”](doc/pdf/gabbay-nanevski-2012.pdf)
 * H. Geuvers (2001) [“Induction is not derivable in second order dependent type theory“](doc/pdf/geuvers-2001.pdf)
 * H. Geuvers (2009) [“Proof assistants: History, ideas and future”](doc/pdf/geuvers-2009.pdf)
+* L.C. González Huesca et al. (2020) [“Dual and axiomatic systems for constructive S4: A formally verified equivalence”](doc/pdf/gonzalez-huesca-et-al-2020.pdf)
 * K. Gödel (1933) [“An interpretation of the intuitionistic propositional calculus”](doc/pdf/godel-1933.pdf)
 * K. Gödel (1938) [“Lecture at Zilsel’s”](doc/pdf/godel-1938.pdf)
 
