@@ -202,6 +202,7 @@ S
 -
 * D. Sangiorgi (2009) [“On the origins of bisimulation and coinduction”](doc/pdf/sangiorgi-2009.pdf)
 * P. Schroeder-Heister (2010) [“The categorical and the hypothetical: A critique of some fundamental assumptions of standard semantics”](doc/pdf/schroederheister-2010.pdf)
+* C. Schwaab, J.G. Siek (2013) [“Modular type-safety proofs in Agda”](doc/pdf/schwaab-siek-2013.pdf)
 * J.P. Seldin, J.R. Hindley (1980) [“To H.B. Curry: Essays on combinatory logic, lambda calculus and formalism”](doc/pdf/seldin-hindley-1980.pdf)
 * C.E. Shannon (1948) [“A mathematical theory of communication”](doc/pdf/shannon-1948.pdf)
 * T. Sheard (2001) [“Accomplishments and research challenges in meta-programming”](doc/pdf/sheard-2001.pdf)
