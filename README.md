@@ -74,6 +74,7 @@ D
 * R. Davies (1996) [“A temporal-logic approach to binding-time analysis”](doc/pdf/davies-1996.pdf)
 * R. Davies, F. Pfenning (1996) [“A modal analysis of staged computation”](doc/pdf/davies-pfenning-1996.pdf)
 * R. Davies, F. Pfenning (2001) [“A modal analysis of staged computation”](doc/pdf/davies-pfenning-2001.pdf)
+* B. Delaware, B. Oliveira, T. Schrijvers (2013) [“Meta-theory à la carte”](doc/pdf/delaware-oliveira-schrijvers-2013.pdf)
 * J. Despeyroux, F. Pfenning, C. Schürmann (1997) [“Primitive recursion for higher-order abstract syntax”](doc/pdf/despeyroux-pfenning-schurmann-1997.pdf)
 * L. Diehl, D. Firsov, A. Stump (2018) [“Generic zero-cost reuse for dependent types”](doc/pdf/diehl-firsov-stump-2018.pdf)
 * L. Diehl (2017) [“Fully generic programming over closed universes of inductive-recursive types”](doc/pdf/diehl-2017.pdf)
