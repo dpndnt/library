@@ -117,6 +117,7 @@ H
 
 I
 -
+* R. Iemhoff (2001) [“Provability logic and admissible rules”](doc/pdf/iemhoff-2001.pdf)
 * D. Ilik (2010) [“Constructive completeness proofs and delimited control”](doc/pdf/ilik-2010.pdf)
 * D. Ilik (2013) [“Continuation-passing style models complete for intuitionistic logic”](doc/pdf/ilik-2013.pdf)
 
