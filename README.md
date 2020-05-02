@@ -183,6 +183,7 @@ O
 P
 -
 * M. Parigot (1989) [”On the representation of data in lambda-calculus”](doc/pdf/parigot-1989.pdf)
+* L. Parreaux, A. Voizard, A. Shaikhha, C.E. Koch (2017) [“Unifying analytic and statically-typed quasiquotes”](doc/pdf/parreaux-voizard-shaikhha-koch-2017.pdf)
 * A. Perlis (1982) [“Epigrams on programming”](doc/pdf/perlis-1982.pdf)
 * F. Pfenning (2001) [“Intensionality, extensionality, and proof irrelevance in modal type theory”](doc/pdf/pfenning-2001.pdf)
 * F. Pfenning (2007) [“On a logical foundation for explicit substitutions”](doc/pdf/pfenning-2007.pdf)
