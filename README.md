@@ -78,6 +78,7 @@ D
 * R. Davies, F. Pfenning (2001) [“A modal analysis of staged computation”](doc/pdf/davies-pfenning-2001.pdf)
 * B. Delaware, B. Oliveira, T. Schrijvers (2013) [“Meta-theory à la carte”](doc/pdf/delaware-oliveira-schrijvers-2013.pdf)
 * J. Despeyroux, F. Pfenning, C. Schürmann (1997) [“Primitive recursion for higher-order abstract syntax”](doc/pdf/despeyroux-pfenning-schurmann-1997.pdf)
+* D. Devriese, F. Piessens (2013) [“Typed syntactic meta-programming”](doc/pdf/devriese-piessens-2013.pdf)
 * L. Diehl, D. Firsov, A. Stump (2018) [“Generic zero-cost reuse for dependent types”](doc/pdf/diehl-firsov-stump-2018.pdf)
 * L. Diehl (2017) [“Fully generic programming over closed universes of inductive-recursive types”](doc/pdf/diehl-2017.pdf)
 * J. Dunfield, N. Krishnaswami (2019) [“Bidirectional typing”](doc/pdf/dunfield-krishnaswami-2019.pdf)
