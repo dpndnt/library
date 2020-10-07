@@ -146,6 +146,7 @@ L
 * C. Lewis, C. Langford (1932) [“The structure of the system of strict implication”](doc/pdf/lewis-langford-1932.pdf)
 * D.R. Licata, R. Harper (2010) [“A monadic formalization of ML5”](doc/pdf/licata-harper-2010.pdf)
 * S. Lindley (2005) [“Normalisation by evaluation in the compilation of typed functional programming languages”](doc/pdf/lindley-2005.pdf)
+* C. E. Linderholm (1971) [“Mathematics Made Difficult”](doc/pdf/math-hard.pdf)
 * A. Löh, C. McBride, W. Swierstra (2010) [“A tutorial implementation of a dependently typed lambda calculus”](doc/pdf/loh-mcbride-swierstra-2010.pdf)
 
 M
