@@ -1,7 +1,8 @@
 dpndnt/library
 ==============
 
-Research library of the [##dependent](https://www.irccloud.com/invite?channel=%23%23dependent&hostname=irc.libera.chat&port=6697&ssl=1) IRC channel.
+Library of the [##dependent
+](ircs://irc.libera.chat:6697/##dependent) distributed research support group.
 
 [**A**](#A) [**B**](#B) [**C**](#C) [**D**](#D) [**E**](#E) [**F**](#F) [**G**](#G) [**H**](#H) [**I**](#I) [**J**](#J) [**K**](#K) [**L**](#L) [**M**](#M) [**N**](#N) [**O**](#O) [**P**](#P) [**Q**](#Q) [**R**](#R) [**S**](#S) [**T**](#T) [**U**](#U) [**V**](#V) [**W**](#W) [**X**](#X) [**Y**](#Y) [**Z**](#Z)
 
