@@ -186,6 +186,7 @@ N
 
 O
 -
+* R.S.S. O’Connor (2009) [“Incompleteness & Completeness: Formalizing Logic and Analysis in Type Theory”](doc/pdf/oconnor-2008.pdf)
 * M. O’Neill (2008) [“The genuine sieve of Eratosthenes”](doc/pdf/oneill-2008.pdf)
 
 P
